@@ -1,0 +1,27 @@
+label input {
+    
+    font-size: 22px !important;
+    text-align: right !important;
+    width:25vw !important;
+}
+label {
+    align-items: flex-end !important;
+    justify-self: center !important;
+    display: flexbox !important;
+    margin-bottom: .5rem;
+    /* color: transparent; */
+    /* text-align: right !important; */
+    font-size: 22px;
+    /* width: 100% !important; */
+}
+table td {
+    font-size: 19px;
+    font-weight: bold;
+}
+/* select {
+    visibility: hidden ;
+
+} */
+.pagination .page-item.active .page-link {
+    color: #fff;
+    background-color: #464e57;}
